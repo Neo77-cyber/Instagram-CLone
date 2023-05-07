@@ -1,6 +1,5 @@
-# Instagram-CLone
 
-# Instagram Clone Backend (FastAPI, SQLite, SQLAlchemy)
+# Instagram Clone (FastAPI, SQLite, SQLAlchemy)
 
 This is the backend component of an Instagram clone application built with the [FastAPI](https://fastapi.tiangolo.com/) framework, using SQLite as the database with SQLAlchemy as the ORM.
 
